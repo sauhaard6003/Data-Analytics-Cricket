@@ -6,8 +6,6 @@
 I have done this cricket analytics project to showcase my analytical skills, firstly by collecting data from ESPN Cricinfo website "https://stats.espncricinfo.com/", then cleaning data using python and finally build a report on Power BI.
 
 
-> To interact with the dashboard, you can download the pbix file from the repository and open it in Power BI Desktop locally.
-
 ---
 ## Objective 🎯
 Analyze player performance from the T20 World Cup (2022) and create the Best 11 Team, which can score 180 runs on a average and is able to defend 150 runs.
